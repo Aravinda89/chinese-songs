@@ -1,6 +1,6 @@
 # Popular Chinese Songs List
 Here is a list of popular Chinese songs sorted by artist name.
-* [youtube playlist](https://youtube.com/playlist?list=PLWgu8_LE5OqDIseiJXPK8KJz1Ome1sjmJ&si=ib24gW3reuGkxwvB)
+[youtube playlist](https://youtube.com/playlist?list=PLWgu8_LE5OqDIseiJXPK8KJz1Ome1sjmJ&si=ib24gW3reuGkxwvB)
 
 - **A-Lin** - 給我一個理由忘記
 - **BY2** - 触动心 触动爱
